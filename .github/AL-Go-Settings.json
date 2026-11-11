@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/a946346885b3c762fcbadb265823e70150c3e2f1/Actions/.Modules/settings.schema.json",
   "type": "PTE",
   "rulesetFile": "../../../src/rulesets/base.ruleset.json",
   "usePsSessionForBc28": true,
@@ -149,7 +150,6 @@
     "build/projects/Apps SE",
     "build/projects/Apps US"
   ],
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/a946346885b3c762fcbadb265823e70150c3e2f1/Actions/.Modules/settings.schema.json",
   "runNumberOffset": 60000,
   "templateSha": "048dfec2790d623e86178936e78f4ecf05bb96fe",
   "enableUICop": true,
